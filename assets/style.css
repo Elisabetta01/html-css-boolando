@@ -64,6 +64,14 @@ header{
      bottom: 40px;
 }
 
+.heart-absolute{
+     position: absolute;
+     right: 0;
+     top: 10px;
+     background-color: white;
+     padding: 5px 5px;
+}
+
 .bg-red{
      background-color: red;
 }
@@ -89,6 +97,12 @@ footer{
 .card-top:hover .img-b{
      display: block;
 }
+
+.fa-heart:hover{
+     color: red;
+}
+
+
 
 
 
