@@ -64,12 +64,6 @@ header{
      bottom: 40px;
 }
 
-.heart-absolute{
-     position: absolute;
-     right: 0;
-     top: 10px;
-}
-
 .bg-red{
      background-color: red;
 }
